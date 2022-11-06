@@ -12,3 +12,9 @@ developers in creating ‘intelligent’ game bots that can play against humans 
 * Our task is to utilize a text file containing corrupted StarCraft2 Target data and create a 
 series of processes that will allow our AI bot engineers, here at Pace University, to better 
 develop their bots.
+
+## File Overview
+CleanFile.ipynb --function for cleaning data into a dataframe and csv file
+SC2TGT_ListCorrupted --corrupted file (unknown format)
+clean_file.csv --cleaned file in CSV
+data cleaning unknown file.ipynb --preparation code
