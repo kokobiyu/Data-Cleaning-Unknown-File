@@ -17,4 +17,4 @@ develop their bots.
 * CleanFile.ipynb --function for cleaning data into a dataframe and csv file
 * SC2TGT_ListCorrupted --corrupted file (unknown format)
 * clean_file.csv --cleaned file in CSV
-* data cleaning unknown file.ipynb --preparation code
+* CleanFile preparation.ipynb --preparation code
